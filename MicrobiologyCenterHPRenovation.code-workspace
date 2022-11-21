@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "MicrobiologyCenterHPRenovation",
+		"path": "."
+	},
+	{
+		"name": "resource-center-renovation",
+		"path": "..\\..\\test\\resource-center-renovation"
+	}
+],
+  "settings": {}
+}
